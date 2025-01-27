@@ -4,7 +4,4 @@ seaborn
 sqlalchemy
 pymysql
 streamlit
-OneHotEncoder
-LabelEncoder          
-TargetEncoder
 scikit-learn                             
