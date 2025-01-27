@@ -5,4 +5,4 @@ sqlalchemy
 pymysql
 streamlit
 scikit-learn                         
-pickle
+pickle5
