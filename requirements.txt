@@ -4,4 +4,5 @@ seaborn
 sqlalchemy
 pymysql
 streamlit
-scikit-learn                             
+scikit-learn                         
+pickle
