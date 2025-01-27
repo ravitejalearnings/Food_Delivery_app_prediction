@@ -122,4 +122,4 @@ if st.button("Get ETA for Delivery!"):
 
     prediction = model.predict(input_data)
 
-    st.write(f'Your Food will arrive in minutes 😋😋 {prediction[0].astype('int')} mins')
+    st.write(f'Your Food will arrive in {prediction[0].astype('int')} mins 😋😋')
