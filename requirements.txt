@@ -4,6 +4,5 @@ seaborn
 sqlalchemy
 pymysql
 streamlit
-scikit-learn                         
-pickle
+scikit-learn
 xgboost
